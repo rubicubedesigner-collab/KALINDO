@@ -1,0 +1,1495 @@
+[
+  {
+    "number": 1,
+    "label": "COVER",
+    "title": "A NEW ADDRESS FOR LIFE IN BATAM",
+    "blocks": [],
+    "raw": "KALINDO PROJECT\nA NEW ADDRESS FOR LIFE IN BATAM",
+    "elements": [],
+    "notes": [],
+    "image": "../presentation/assets/slide-1-cover-cover.jpg",
+    "coverBrand": "KALINDO PROJECT",
+    "section": "DESTINATION & MARKET",
+    "style": "cover",
+    "dark": true
+  },
+  {
+    "number": 2,
+    "label": "MARKET RESEARCH BASIS",
+    "title": "THE MARKET THROUGH SIX DESTINATIONS",
+    "blocks": [
+      "The review examines how competing destinations attract visitors, support repeat visits and extend time spent.",
+      "Common assessment framework",
+      "●   Development maturity and positioning. ●   Traffic generators and access. ●   Anchor tenants and category mix. ●   Everyday utility and leisure experiences. ●   Programming and community participation. ●   Occupancy evidence and operational continuity. ●   Implications for Kalindo.",
+      "Evidence labels",
+      "Verified public information Official directories, operator publications and documented activities.",
+      "Strategic interpretation Our assessment of the commercial mechanism.",
+      "Validation required Actual footfall, occupancy, rent, tenant sales and retention.",
+      "Visual: Enam competitor cards. Footer mencantumkan tanggal riset dan sumber."
+    ],
+    "raw": "THE MARKET THROUGH SIX DESTINATIONS\n\nThe review examines how competing destinations attract visitors, support repeat visits and\nextend time spent.\n\nCommon assessment framework\n\n   ●   Development maturity and positioning.\n   ●   Traffic generators and access.\n   ●   Anchor tenants and category mix.\n   ●   Everyday utility and leisure experiences.\n   ●   Programming and community participation.\n   ●   Occupancy evidence and operational continuity.\n   ●   Implications for Kalindo.\n\n\n\nEvidence labels\n\nVerified public information\nOfficial directories, operator publications and documented activities.\n\nStrategic interpretation\nOur assessment of the commercial mechanism.\n\nValidation required\nActual footfall, occupancy, rent, tenant sales and retention.\n\nVisual: Enam competitor cards. Footer mencantumkan tanggal riset dan sumber.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "The review examines how competing destinations attract visitors, support repeat visits and extend time spent."
+      },
+      {
+        "type": "paragraph",
+        "label": "Common assessment framework",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Development maturity and positioning.",
+          "Traffic generators and access.",
+          "Anchor tenants and category mix.",
+          "Everyday utility and leisure experiences.",
+          "Programming and community participation.",
+          "Occupancy evidence and operational continuity.",
+          "Implications for Kalindo."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Evidence labels",
+        "text": ""
+      },
+      {
+        "type": "paragraph",
+        "label": "Verified public information",
+        "text": "Official directories, operator publications and documented activities."
+      },
+      {
+        "type": "paragraph",
+        "label": "Strategic interpretation",
+        "text": "Our assessment of the commercial mechanism."
+      },
+      {
+        "type": "paragraph",
+        "label": "Validation required",
+        "text": "Actual footfall, occupancy, rent, tenant sales and retention."
+      }
+    ],
+    "notes": [
+      "Visual: Enam competitor cards. Footer mencantumkan tanggal riset dan sumber."
+    ],
+    "section": "DESTINATION & MARKET",
+    "style": "editorial",
+    "dark": false
+  },
+  {
+    "number": 3,
+    "label": "POLLUX MALL BATAM CENTER",
+    "title": "FUNCTIONAL VISITS SUPPORT EVERYDAY RELEVANCE",
+    "blocks": [
+      "Public evidence The official store list includes MAKO, J.CO, fashion brands, optical retailers and electronics. Immigration Batam also confirms passport and stay-permit services at the Pollux Immigration Lounge.",
+      "Source : https://polluxmalls.com/polluxhabibiemall-store-list/?utm_source=",
+      "Commercial interpretation",
+      "● Services create a specific reason to visit. ● Everyday F&B and retail can capture spending around that visit. ● The mixed-use setting offers a potential local customer base.",
+      "Implication for Kalindo Project Useful services should contribute to the district’s weekday relevance.",
+      "Further validation Service-user conversion into tenant spending, weekday footfall and current vacancy.",
+      "Visual: Diagram sederhana hubungan service visit dengan café/retail. Jangan mengasumsikan captive residents otomatis menjadi pelanggan aktif."
+    ],
+    "raw": "FUNCTIONAL VISITS SUPPORT EVERYDAY RELEVANCE\n\nPublic evidence\nThe official store list includes MAKO, J.CO, fashion brands, optical retailers and electronics.\nImmigration Batam also confirms passport and stay-permit services at the Pollux\nImmigration Lounge.\n\nSource : https://polluxmalls.com/polluxhabibiemall-store-list/?utm_source=\n\nCommercial interpretation\n\n   ● Services create a specific reason to visit.\n   ● Everyday F&B and retail can capture spending around that visit.\n   ● The mixed-use setting offers a potential local customer base.\n\nImplication for Kalindo Project\nUseful services should contribute to the district’s weekday relevance.\n\nFurther validation\nService-user conversion into tenant spending, weekday footfall and current vacancy.\n\nVisual: Diagram sederhana hubungan service visit dengan café/retail. Jangan\nmengasumsikan captive residents otomatis menjadi pelanggan aktif.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Public evidence",
+        "text": "The official store list includes MAKO, J.CO, fashion brands, optical retailers and electronics. Immigration Batam also confirms passport and stay-permit services at the Pollux Immigration Lounge."
+      },
+      {
+        "type": "source",
+        "text": "Source : https://polluxmalls.com/polluxhabibiemall-store-list/?utm_source="
+      },
+      {
+        "type": "paragraph",
+        "label": "Commercial interpretation",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Services create a specific reason to visit.",
+          "Everyday F&B and retail can capture spending around that visit.",
+          "The mixed-use setting offers a potential local customer base."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Implication for Kalindo Project",
+        "text": "Useful services should contribute to the district’s weekday relevance."
+      },
+      {
+        "type": "paragraph",
+        "label": "Further validation",
+        "text": "Service-user conversion into tenant spending, weekday footfall and current vacancy."
+      }
+    ],
+    "notes": [
+      "Visual: Diagram sederhana hubungan service visit dengan café/retail. Jangan mengasumsikan captive residents otomatis menjadi pelanggan aktif."
+    ],
+    "section": "DESTINATION & MARKET",
+    "style": "research",
+    "dark": false
+  },
+  {
+    "number": 4,
+    "label": "NAGOYA HILL",
+    "title": "A BROAD MIX SUPPORTS MULTIPLE VISIT MISSIONS",
+    "blocks": [
+      "Public evidence Nagoya Hill’s official website displays Hypermart, Matahari, cinema, F&B, electronics, optical and service brands. Its official description places the superblock within a surrounding concentration of hotels and commercial uses.",
+      "Source : https://nagoyahill.co.id/?utm_source=",
+      "Commercial interpretation",
+      "●   Grocery supports routine visits. ●   Shopping and entertainment create additional occasions. ●   Dining and services allow several needs within one trip. ●   Surrounding hospitality broadens the potential catchment.",
+      "Implication for Kalindo Project Build several dependable reasons to return, supported by distinctive experiences.",
+      "Further validation Comparable occupancy, tenant turnover, visitor origin and daypart performance.",
+      "Visual: Visit missions: groceries, dining, services, entertainment."
+    ],
+    "raw": "A BROAD MIX SUPPORTS MULTIPLE VISIT MISSIONS\n\nPublic evidence\nNagoya Hill’s official website displays Hypermart, Matahari, cinema, F&B, electronics, optical\nand service brands. Its official description places the superblock within a surrounding\nconcentration of hotels and commercial uses.\n\nSource : https://nagoyahill.co.id/?utm_source=\n\nCommercial interpretation\n\n   ●   Grocery supports routine visits.\n   ●   Shopping and entertainment create additional occasions.\n   ●   Dining and services allow several needs within one trip.\n   ●   Surrounding hospitality broadens the potential catchment.\n\nImplication for Kalindo Project\nBuild several dependable reasons to return, supported by distinctive experiences.\n\nFurther validation\nComparable occupancy, tenant turnover, visitor origin and daypart performance.\n\nVisual: Visit missions: groceries, dining, services, entertainment.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Public evidence",
+        "text": "Nagoya Hill’s official website displays Hypermart, Matahari, cinema, F&B, electronics, optical and service brands. Its official description places the superblock within a surrounding concentration of hotels and commercial uses."
+      },
+      {
+        "type": "source",
+        "text": "Source : https://nagoyahill.co.id/?utm_source="
+      },
+      {
+        "type": "paragraph",
+        "label": "Commercial interpretation",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Grocery supports routine visits.",
+          "Shopping and entertainment create additional occasions.",
+          "Dining and services allow several needs within one trip.",
+          "Surrounding hospitality broadens the potential catchment."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Implication for Kalindo Project",
+        "text": "Build several dependable reasons to return, supported by distinctive experiences."
+      },
+      {
+        "type": "paragraph",
+        "label": "Further validation",
+        "text": "Comparable occupancy, tenant turnover, visitor origin and daypart performance."
+      }
+    ],
+    "notes": [
+      "Visual: Visit missions: groceries, dining, services, entertainment."
+    ],
+    "image": "../presentation/assets/slide-2-nagoya-hill.jpg",
+    "section": "DESTINATION & MARKET",
+    "style": "research",
+    "dark": false
+  },
+  {
+    "number": 5,
+    "label": "GRAND BATAM",
+    "title": "CATEGORY BREADTH AND BRAND DISCOVERY",
+    "blocks": [
+      "Public evidence Grand Batam’s official directory covers anchors, F&B, fashion, beauty, electronics, home living, kids and services. The current directory highlights brands including Sociolla, Huawei, Smiggle, Skechers and Yakiniku Like. Grand Batam Mall",
+      "Commercial interpretation",
+      "● Recognisable brands support customer consideration. ● Multiple categories enable shopping and leisure within one visit. ● Promotions and changing tenant content provide additional discovery.",
+      "Implication for Kalindo Project Select anchors that fit the intended customer and support neighbouring experiences.",
+      "Further validation Current anchor roster, category area shares, repeat visits and tenant performance.",
+      "Visual: Category ecosystem."
+    ],
+    "raw": "CATEGORY BREADTH AND BRAND DISCOVERY\n\nPublic evidence\nGrand Batam’s official directory covers anchors, F&B, fashion, beauty, electronics, home\nliving, kids and services. The current directory highlights brands including Sociolla, Huawei,\nSmiggle, Skechers and Yakiniku Like. Grand Batam Mall\n\nCommercial interpretation\n\n   ● Recognisable brands support customer consideration.\n   ● Multiple categories enable shopping and leisure within one visit.\n   ● Promotions and changing tenant content provide additional discovery.\n\nImplication for Kalindo Project\nSelect anchors that fit the intended customer and support neighbouring experiences.\n\nFurther validation\nCurrent anchor roster, category area shares, repeat visits and tenant performance.\n\nVisual: Category ecosystem.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Public evidence",
+        "text": "Grand Batam’s official directory covers anchors, F&B, fashion, beauty, electronics, home living, kids and services. The current directory highlights brands including Sociolla, Huawei, Smiggle, Skechers and Yakiniku Like. Grand Batam Mall"
+      },
+      {
+        "type": "paragraph",
+        "label": "Commercial interpretation",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Recognisable brands support customer consideration.",
+          "Multiple categories enable shopping and leisure within one visit.",
+          "Promotions and changing tenant content provide additional discovery."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Implication for Kalindo Project",
+        "text": "Select anchors that fit the intended customer and support neighbouring experiences."
+      },
+      {
+        "type": "paragraph",
+        "label": "Further validation",
+        "text": "Current anchor roster, category area shares, repeat visits and tenant performance."
+      }
+    ],
+    "notes": [
+      "Visual: Category ecosystem."
+    ],
+    "section": "DESTINATION & MARKET",
+    "style": "research",
+    "dark": false
+  },
+  {
+    "number": 6,
+    "label": "MEGA MALL BATAM CENTRE",
+    "title": "ACCESS CREATES A COMMERCIAL ADVANTAGE",
+    "blocks": [
+      "Public evidence Mega Mall confirms a bridge connection to Batam Centre International Ferry Terminal. Its website also publishes an October 2026 event calendar and culinary/community programmes.",
+      "Source : https://www.megamallbatam.com/?utm_source=",
+      "Commercial interpretation",
+      "● Convenient access can capture visitors already moving through the area. ● Retail and dining provide useful activities around travel. ● Programming gives visitors additional reasons to spend time.",
+      "Implication for Kalindo Project Regional demand requires a practical route to the destination: transport, booking and partner distribution.",
+      "Further validation Ferry-passenger conversion, visitor origin, transfer friction and package demand.",
+      "Visual: Ferry arrival, transfer, destination visit."
+    ],
+    "raw": "ACCESS CREATES A COMMERCIAL ADVANTAGE\n\nPublic evidence\nMega Mall confirms a bridge connection to Batam Centre International Ferry Terminal. Its\nwebsite also publishes an October 2026 event calendar and culinary/community\nprogrammes.\n\nSource : https://www.megamallbatam.com/?utm_source=\n\nCommercial interpretation\n\n   ● Convenient access can capture visitors already moving through the area.\n   ● Retail and dining provide useful activities around travel.\n   ● Programming gives visitors additional reasons to spend time.\n\nImplication for Kalindo Project\nRegional demand requires a practical route to the destination: transport, booking and partner\ndistribution.\n\nFurther validation\nFerry-passenger conversion, visitor origin, transfer friction and package demand.\n\nVisual: Ferry arrival, transfer, destination visit.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Public evidence",
+        "text": "Mega Mall confirms a bridge connection to Batam Centre International Ferry Terminal. Its website also publishes an October 2026 event calendar and culinary/community programmes."
+      },
+      {
+        "type": "source",
+        "text": "Source : https://www.megamallbatam.com/?utm_source="
+      },
+      {
+        "type": "paragraph",
+        "label": "Commercial interpretation",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Convenient access can capture visitors already moving through the area.",
+          "Retail and dining provide useful activities around travel.",
+          "Programming gives visitors additional reasons to spend time."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Implication for Kalindo Project",
+        "text": "Regional demand requires a practical route to the destination: transport, booking and partner distribution."
+      },
+      {
+        "type": "paragraph",
+        "label": "Further validation",
+        "text": "Ferry-passenger conversion, visitor origin, transfer friction and package demand."
+      }
+    ],
+    "notes": [
+      "Visual: Ferry arrival, transfer, destination visit."
+    ],
+    "section": "DESTINATION & MARKET",
+    "style": "research",
+    "dark": false
+  },
+  {
+    "number": 7,
+    "label": "K SQUARE",
+    "title": "PROGRAMMING ADDS REASONS TO VISIT",
+    "blocks": [
+      "Public evidence Disbudpar Batam documents the Wonderfood event at K Square on 9–17 April 2026, involving 40 businesses with culinary and entertainment activities. It also records a February 2026 film premiere at Cinépolis K Square.",
+      "Source : https://disbudpar.batam.go.id/2026/04/28/bazar-kuliner-dan-hiburan-wonderfood-ram aikan-k-square-mall-batam/?utm_source=",
+      "Commercial interpretation",
+      "● Events introduce changing content. ● Culinary and entertainment can attract different audiences. ● Successful activation needs conversion into surrounding tenant activity.",
+      "Implication for Kalindo Project The Veranda needs a funded programme and operating team from the outset.",
+      "Further validation Event-day uplift, ordinary-day traffic, net event contribution and current permanent tenant mix.",
+      "Visual: Permanent tenant activity dibandingkan dengan event-day activation.",
+      "Catatan: Kehadiran event membuktikan kegiatan berlangsung; belum membuktikan uplift atau profitabilitas."
+    ],
+    "raw": "PROGRAMMING ADDS REASONS TO VISIT\n\nPublic evidence\nDisbudpar Batam documents the Wonderfood event at K Square on 9–17 April 2026,\ninvolving 40 businesses with culinary and entertainment activities. It also records a February\n2026 film premiere at Cinépolis K Square.\n\nSource :\nhttps://disbudpar.batam.go.id/2026/04/28/bazar-kuliner-dan-hiburan-wonderfood-ram\naikan-k-square-mall-batam/?utm_source=\n\nCommercial interpretation\n\n    ● Events introduce changing content.\n    ● Culinary and entertainment can attract different audiences.\n    ● Successful activation needs conversion into surrounding tenant activity.\n\nImplication for Kalindo Project\nThe Veranda needs a funded programme and operating team from the outset.\n\nFurther validation\nEvent-day uplift, ordinary-day traffic, net event contribution and current permanent tenant\nmix.\n\nVisual: Permanent tenant activity dibandingkan dengan event-day activation.\n\nCatatan: Kehadiran event membuktikan kegiatan berlangsung; belum membuktikan uplift\natau profitabilitas.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Public evidence",
+        "text": "Disbudpar Batam documents the Wonderfood event at K Square on 9–17 April 2026, involving 40 businesses with culinary and entertainment activities. It also records a February 2026 film premiere at Cinépolis K Square."
+      },
+      {
+        "type": "source",
+        "text": "Source : https://disbudpar.batam.go.id/2026/04/28/bazar-kuliner-dan-hiburan-wonderfood-ramaikan-k-square-mall-batam/?utm_source="
+      },
+      {
+        "type": "paragraph",
+        "label": "Commercial interpretation",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Events introduce changing content.",
+          "Culinary and entertainment can attract different audiences.",
+          "Successful activation needs conversion into surrounding tenant activity."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Implication for Kalindo Project",
+        "text": "The Veranda needs a funded programme and operating team from the outset."
+      },
+      {
+        "type": "paragraph",
+        "label": "Further validation",
+        "text": "Event-day uplift, ordinary-day traffic, net event contribution and current permanent tenant mix."
+      }
+    ],
+    "notes": [
+      "Visual: Permanent tenant activity dibandingkan dengan event-day activation.",
+      "Catatan: Kehadiran event membuktikan kegiatan berlangsung; belum membuktikan uplift atau profitabilitas."
+    ],
+    "section": "DESTINATION & MARKET",
+    "style": "research",
+    "dark": false
+  },
+  {
+    "number": 8,
+    "label": "ONE BATAM MALL",
+    "title": "COMMUNITIES CREATE RECURRING OCCASIONS",
+    "blocks": [
+      "Public evidence Gattchaa’s own channels identify its One Batam Mall location. Official Pokémon event listings also document activities at that venue.",
+      "Source : https://linktr.ee/gattchaa?utm_source=",
+      "Commercial interpretation",
+      "● Specialist tenants can host recurring participation. ● A customer may return because an activity or community meets there. ● Community activity can support visits beyond product purchases.",
+      "Implication for Kalindo Project Seek tenants that bring customers and a repeatable activity calendar.",
+      "Further validation Participation frequency, spending conversion, current mall mix and occupancy.",
+      "Visual: Community participation, café visit, return occasion.",
+      "Catatan: Konsep awal alfresco/marketplace merupakan historical positioning. Jangan menganggap semua ambisi awal sudah berjalan penuh."
+    ],
+    "raw": "COMMUNITIES CREATE RECURRING OCCASIONS\n\nPublic evidence\nGattchaa’s own channels identify its One Batam Mall location. Official Pokémon event\nlistings also document activities at that venue.\n\nSource : https://linktr.ee/gattchaa?utm_source=\n\nCommercial interpretation\n\n   ● Specialist tenants can host recurring participation.\n   ● A customer may return because an activity or community meets there.\n   ● Community activity can support visits beyond product purchases.\n\nImplication for Kalindo Project\nSeek tenants that bring customers and a repeatable activity calendar.\n\nFurther validation\nParticipation frequency, spending conversion, current mall mix and occupancy.\n\nVisual: Community participation, café visit, return occasion.\n\nCatatan: Konsep awal alfresco/marketplace merupakan historical positioning. Jangan\nmenganggap semua ambisi awal sudah berjalan penuh.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Public evidence",
+        "text": "Gattchaa’s own channels identify its One Batam Mall location. Official Pokémon event listings also document activities at that venue."
+      },
+      {
+        "type": "source",
+        "text": "Source : https://linktr.ee/gattchaa?utm_source="
+      },
+      {
+        "type": "paragraph",
+        "label": "Commercial interpretation",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Specialist tenants can host recurring participation.",
+          "A customer may return because an activity or community meets there.",
+          "Community activity can support visits beyond product purchases."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Implication for Kalindo Project",
+        "text": "Seek tenants that bring customers and a repeatable activity calendar."
+      },
+      {
+        "type": "paragraph",
+        "label": "Further validation",
+        "text": "Participation frequency, spending conversion, current mall mix and occupancy."
+      }
+    ],
+    "notes": [
+      "Visual: Community participation, café visit, return occasion.",
+      "Catatan: Konsep awal alfresco/marketplace merupakan historical positioning. Jangan menganggap semua ambisi awal sudah berjalan penuh."
+    ],
+    "section": "DESTINATION & MARKET",
+    "style": "research",
+    "dark": false
+  },
+  {
+    "number": 9,
+    "label": "COMPETITIVE LESSONS",
+    "title": "SIX COMMERCIAL MECHANISMS TO LEARN FROM",
+    "blocks": [
+      "Strategic interpretation based on the preceding evidence.",
+      "Competitor           Mechanism to study                    Application for Kalindo",
+      "Pollux        Useful services and everyday         Functional tenants that support local visits                               routines",
+      "Nagoya Hill   Several visit missions               A balanced mix of necessity and leisure",
+      "Grand         Brand discovery and category         Selective anchors with customer Batam         breadth                              relevance",
+      "Mega Mall     Convenient tourism access            Transport and distribution partnerships",
+      "K Square      Changing event content               A managed calendar for The Veranda",
+      "One Batam      Specialist community                  Tenants with recurring activities participation"
+    ],
+    "raw": "SIX COMMERCIAL MECHANISMS TO LEARN FROM\n\nStrategic interpretation based on the preceding evidence.\n\n Competitor           Mechanism to study                    Application for Kalindo\n\n Pollux        Useful services and everyday         Functional tenants that support local\n               visits                               routines\n\n Nagoya Hill   Several visit missions               A balanced mix of necessity and leisure\n\n Grand         Brand discovery and category         Selective anchors with customer\n Batam         breadth                              relevance\n\n Mega Mall     Convenient tourism access            Transport and distribution partnerships\n\n K Square      Changing event content               A managed calendar for The Veranda\n\n One Batam      Specialist community                  Tenants with recurring activities\n                participation",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Strategic interpretation",
+        "text": "based on the preceding evidence."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Competitor",
+          "Mechanism to study",
+          "Application for Kalindo"
+        ],
+        "rows": [
+          [
+            "Pollux",
+            "Useful services and everyday visits",
+            "Functional tenants that support local routines"
+          ],
+          [
+            "Nagoya Hill",
+            "Several visit missions",
+            "A balanced mix of necessity and leisure"
+          ],
+          [
+            "Grand Batam",
+            "Brand discovery and category breadth",
+            "Selective anchors with customer relevance"
+          ],
+          [
+            "Mega Mall",
+            "Convenient tourism access",
+            "Transport and distribution partnerships"
+          ],
+          [
+            "K Square",
+            "Changing event content",
+            "A managed calendar for The Veranda"
+          ],
+          [
+            "One Batam",
+            "Specialist community participation",
+            "Tenants with recurring activities"
+          ]
+        ]
+      }
+    ],
+    "notes": [],
+    "section": "DESTINATION & MARKET",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 10,
+    "label": "KALINDO’S COMPETITIVE OPPORTUNITY",
+    "title": "A CONNECTED DAY IN BATAM",
+    "blocks": [
+      "Kalindo can bring everyday utility, culinary discovery, family participation and hospitality together around a recognisable public heart.",
+      "The opportunity lies in making movement between these activities comfortable and worthwhile.",
+      "The proposed advantage",
+      "●   Useful enough for regular local visits. ●   Distinctive enough for culinary and leisure discovery. ●   Comfortable enough to extend time spent. ●   Organised enough to support events and regional packages.",
+      "Visual: Visitor journeys yang bertemu di The Veranda."
+    ],
+    "raw": "A CONNECTED DAY IN BATAM\n\nKalindo can bring everyday utility, culinary discovery, family participation and hospitality\ntogether around a recognisable public heart.\n\nThe opportunity lies in making movement between these activities comfortable and\nworthwhile.\n\nThe proposed advantage\n\n   ●   Useful enough for regular local visits.\n   ●   Distinctive enough for culinary and leisure discovery.\n   ●   Comfortable enough to extend time spent.\n   ●   Organised enough to support events and regional packages.\n\nVisual: Visitor journeys yang bertemu di The Veranda.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Kalindo can bring everyday utility, culinary discovery, family participation and hospitality together around a recognisable public heart."
+      },
+      {
+        "type": "paragraph",
+        "text": "The opportunity lies in making movement between these activities comfortable and worthwhile."
+      },
+      {
+        "type": "paragraph",
+        "label": "The proposed advantage",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Useful enough for regular local visits.",
+          "Distinctive enough for culinary and leisure discovery.",
+          "Comfortable enough to extend time spent.",
+          "Organised enough to support events and regional packages."
+        ]
+      }
+    ],
+    "notes": [
+      "Visual: Visitor journeys yang bertemu di The Veranda."
+    ],
+    "image": "../presentation/assets/slide-9-promenide-2.jpg",
+    "section": "DESTINATION & MARKET",
+    "style": "image",
+    "dark": true
+  },
+  {
+    "number": 11,
+    "label": "REMAINING MARKET VALIDATION",
+    "title": "PUBLIC RESEARCH ESTABLISHES THE DIRECTION. FIELDWORK TESTS THE ECONOMICS.",
+    "blocks": [
+      "Question                                 Required evidence",
+      "Which periods need stronger                Comparable weekday/weekend observations demand?",
+      "Which categories remain                    Customer interviews and operator feedback underserved?",
+      "Which tenants can perform here?            Catchment assessment and sounding",
+      "What rents are achievable?                 Comparable terms and operator responses",
+      "Which regional offers are bookable?        Travel/hotel partner discussions",
+      "What sustains occupancy?                  Vacancy, turnover and lease-renewal evidence"
+    ],
+    "raw": "PUBLIC RESEARCH ESTABLISHES THE DIRECTION.\nFIELDWORK TESTS THE ECONOMICS.\n\n                Question                                 Required evidence\n\n Which periods need stronger                Comparable weekday/weekend observations\n demand?\n\n Which categories remain                    Customer interviews and operator feedback\n underserved?\n\n Which tenants can perform here?            Catchment assessment and sounding\n\n What rents are achievable?                 Comparable terms and operator responses\n\n Which regional offers are bookable?        Travel/hotel partner discussions\n\n What sustains occupancy?                  Vacancy, turnover and lease-renewal\n                                           evidence",
+    "elements": [
+      {
+        "type": "table",
+        "headers": [
+          "Question",
+          "Required evidence"
+        ],
+        "rows": [
+          [
+            "Which periods need stronger demand?",
+            "Comparable weekday/weekend observations"
+          ],
+          [
+            "Which categories remain underserved?",
+            "Customer interviews and operator feedback"
+          ],
+          [
+            "Which tenants can perform here?",
+            "Catchment assessment and sounding"
+          ],
+          [
+            "What rents are achievable?",
+            "Comparable terms and operator responses"
+          ],
+          [
+            "Which regional offers are bookable?",
+            "Travel/hotel partner discussions"
+          ],
+          [
+            "What sustains occupancy?",
+            "Vacancy, turnover and lease-renewal evidence"
+          ]
+        ]
+      }
+    ],
+    "notes": [],
+    "section": "DESTINATION & MARKET",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 12,
+    "label": "BRAND POSITIONING",
+    "title": "BATAM’S TROPICAL LIFESTYLE DISTRICT",
+    "blocks": [
+      "For Batam residents and regional leisure visitors, this place brings everyday essentials, culinary discovery, family experiences and hospitality into a comfortable, walkable setting centred on The Veranda.",
+      "Working market position Middle-to-upper lifestyle with welcoming service and a considered range of prices.",
+      "Brand promise More to discover. More reasons to stay.",
+      "Catatan: Bobot sport, wellness, grocery dan entertainment tetap mengikuti hasil sounding."
+    ],
+    "raw": "BATAM’S TROPICAL LIFESTYLE DISTRICT\n\nFor Batam residents and regional leisure visitors, this place brings everyday essentials,\nculinary discovery, family experiences and hospitality into a comfortable, walkable setting\ncentred on The Veranda.\n\nWorking market position\nMiddle-to-upper lifestyle with welcoming service and a considered range of prices.\n\nBrand promise\nMore to discover. More reasons to stay.\n\nCatatan: Bobot sport, wellness, grocery dan entertainment tetap mengikuti hasil sounding.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "For Batam residents and regional leisure visitors, this place brings everyday essentials, culinary discovery, family experiences and hospitality into a comfortable, walkable setting centred on The Veranda."
+      },
+      {
+        "type": "paragraph",
+        "label": "Working market position",
+        "text": "Middle-to-upper lifestyle with welcoming service and a considered range of prices."
+      },
+      {
+        "type": "paragraph",
+        "label": "Brand promise",
+        "text": "More to discover. More reasons to stay."
+      }
+    ],
+    "notes": [
+      "Catatan: Bobot sport, wellness, grocery dan entertainment tetap mengikuti hasil sounding."
+    ],
+    "image": "../presentation/assets/slide-4-tropica.jpg",
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "image",
+    "dark": false
+  },
+  {
+    "number": 13,
+    "label": "COMPETITIVE PROPOSITION",
+    "title": "EVERYDAY RELEVANCE. SHARED EXPERIENCES.",
+    "blocks": [
+      "Everyday tenants create dependable reasons to visit.",
+      "Culinary and leisure experiences encourage discovery.",
+      "The Veranda brings people together through a changing calendar.",
+      "Hospitality allows the experience to extend into a stay.",
+      "Visual: Empat commercial roles dengan bukti ruang dan layanan."
+    ],
+    "raw": "EVERYDAY RELEVANCE. SHARED EXPERIENCES.\n\nEveryday tenants create dependable reasons to visit.\n\nCulinary and leisure experiences encourage discovery.\n\nThe Veranda brings people together through a changing calendar.\n\nHospitality allows the experience to extend into a stay.\n\nVisual: Empat commercial roles dengan bukti ruang dan layanan.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Everyday tenants create dependable reasons to visit."
+      },
+      {
+        "type": "paragraph",
+        "text": "Culinary and leisure experiences encourage discovery."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Veranda brings people together through a changing calendar."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hospitality allows the experience to extend into a stay."
+      }
+    ],
+    "notes": [
+      "Visual: Empat commercial roles dengan bukti ruang dan layanan."
+    ],
+    "image": "../presentation/assets/slide-3-family-slide-3.jpg",
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "roles",
+    "dark": true
+  },
+  {
+    "number": 14,
+    "label": "TENANT MIX PRINCIPLE",
+    "title": "EVERY TENANT HAS A ROLE IN THE VISIT",
+    "blocks": [
+      "Role                      Commercial contribution",
+      "Destination          Gives people a specific reason to choose anchor               Kalindo",
+      "Frequency anchor       Supports recurring visits",
+      "Dwell anchor           Extends time spent",
+      "Spend extender         Encourages an additional purchase",
+      "Community tenant       Hosts repeat participation",
+      "Supporting tenant      Serves needs around the main activities",
+      "A tenant may serve several roles."
+    ],
+    "raw": "EVERY TENANT HAS A ROLE IN THE VISIT\n\n        Role                      Commercial contribution\n\n Destination          Gives people a specific reason to choose\n anchor               Kalindo\n\n Frequency anchor       Supports recurring visits\n\n Dwell anchor           Extends time spent\n\n Spend extender         Encourages an additional purchase\n\n Community tenant       Hosts repeat participation\n\n Supporting tenant      Serves needs around the main activities\n\nA tenant may serve several roles.",
+    "elements": [
+      {
+        "type": "table",
+        "headers": [
+          "Role",
+          "Commercial contribution"
+        ],
+        "rows": [
+          [
+            "Destination anchor",
+            "Gives people a specific reason to choose Kalindo"
+          ],
+          [
+            "Frequency anchor",
+            "Supports recurring visits"
+          ],
+          [
+            "Dwell anchor",
+            "Extends time spent"
+          ],
+          [
+            "Spend extender",
+            "Encourages an additional purchase"
+          ],
+          [
+            "Community tenant",
+            "Hosts repeat participation"
+          ],
+          [
+            "Supporting tenant",
+            "Serves needs around the main activities"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "A tenant may serve several roles."
+      }
+    ],
+    "notes": [],
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 15,
+    "label": "PROPOSED CATEGORY FRAMEWORK",
+    "title": "A BALANCED MIX FOR LIFE THROUGHOUT THE DAY",
+    "blocks": [
+      "Category                         Primary role               Planning priority",
+      "Destination dining and            Attraction, dwell and spending     Very high everyday F&B",
+      "Family activities and learning    Frequency and shared visits        Very high",
+      "Grocery and everyday              Routine local visits               High services",
+      "Sport and active lifestyle        Membership and scheduled           High, subject to participation                      operator fit",
+      "Social entertainment              Evening and group visits           High",
+      "Wellness and recovery             Service visits and complementary   Test demand and spending                           space needs",
+      "Curated lifestyle retail          Discovery and supporting           Selective purchases",
+      "Visual: Category cards."
+    ],
+    "raw": "A BALANCED MIX FOR LIFE THROUGHOUT THE DAY\n\n            Category                         Primary role               Planning priority\n\n Destination dining and            Attraction, dwell and spending     Very high\n everyday F&B\n\n Family activities and learning    Frequency and shared visits        Very high\n\n Grocery and everyday              Routine local visits               High\n services\n\n Sport and active lifestyle        Membership and scheduled           High, subject to\n                                   participation                      operator fit\n\n Social entertainment              Evening and group visits           High\n\n Wellness and recovery             Service visits and complementary   Test demand and\n                                   spending                           space needs\n\n Curated lifestyle retail          Discovery and supporting           Selective\n                                   purchases\n\nVisual: Category cards.",
+    "elements": [
+      {
+        "type": "table",
+        "headers": [
+          "Category",
+          "Primary role",
+          "Planning priority"
+        ],
+        "rows": [
+          [
+            "Destination dining and everyday F&B",
+            "Attraction, dwell and spending",
+            "Very high"
+          ],
+          [
+            "Family activities and learning",
+            "Frequency and shared visits",
+            "Very high"
+          ],
+          [
+            "Grocery and everyday services",
+            "Routine local visits",
+            "High"
+          ],
+          [
+            "Sport and active lifestyle",
+            "Membership and scheduled participation",
+            "High, subject to operator fit"
+          ],
+          [
+            "Social entertainment",
+            "Evening and group visits",
+            "High"
+          ],
+          [
+            "Wellness and recovery",
+            "Service visits and complementary spending",
+            "Test demand and space needs"
+          ],
+          [
+            "Curated lifestyle retail",
+            "Discovery and supporting purchases",
+            "Selective"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Visual: Category cards."
+    ],
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 16,
+    "label": "CULINARY ANCHORS",
+    "title": "A FEW STRONG REASONS TO COME FOR FOOD",
+    "blocks": [
+      "Initial sounding should test a small group of complementary concepts:",
+      "●   Indonesian destination restaurant. ●   Seafood dining experience. ●   All-day social dining. ●   Café and bakery. ●   A rotating chef or culinary collaboration format.",
+      "Space considerations Garden frontage, kitchen and exhaust, loading, waste handling, acoustic impact and practical terrace operation.",
+      "Commercial test Can the concept attract its own customers and support neighbouring activity?",
+      "Visual: Culinary frontage di sekitar The Veranda."
+    ],
+    "raw": "A FEW STRONG REASONS TO COME FOR FOOD\n\nInitial sounding should test a small group of complementary concepts:\n\n   ●   Indonesian destination restaurant.\n   ●   Seafood dining experience.\n   ●   All-day social dining.\n   ●   Café and bakery.\n   ●   A rotating chef or culinary collaboration format.\n\nSpace considerations\nGarden frontage, kitchen and exhaust, loading, waste handling, acoustic impact and\npractical terrace operation.\n\nCommercial test\nCan the concept attract its own customers and support neighbouring activity?\n\nVisual: Culinary frontage di sekitar The Veranda.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Initial sounding should test a small group of complementary concepts:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Indonesian destination restaurant.",
+          "Seafood dining experience.",
+          "All-day social dining.",
+          "Café and bakery.",
+          "A rotating chef or culinary collaboration format."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Space considerations",
+        "text": "Garden frontage, kitchen and exhaust, loading, waste handling, acoustic impact and practical terrace operation."
+      },
+      {
+        "type": "paragraph",
+        "label": "Commercial test",
+        "text": "Can the concept attract its own customers and support neighbouring activity?"
+      }
+    ],
+    "notes": [
+      "Visual: Culinary frontage di sekitar The Veranda."
+    ],
+    "image": "../presentation/assets/slide-19-event.jpg",
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "image",
+    "dark": false
+  },
+  {
+    "number": 17,
+    "label": "FAMILY ANCHORS",
+    "title": "ACTIVITIES THAT FAMILIES CAN BUILD INTO THEIR ROUTINE",
+    "blocks": [
+      "Potential operator profiles:",
+      "●   Indoor discovery/play. ●   Creative learning studio. ●   Scheduled academy or classes. ●   Family activity operator.",
+      "Experience relationship Child activity connects with nearby cafés, retail and family dining.",
+      "Operating requirements Supervision, age groups, drop-off rules, toilets, stroller access and safe circulation.",
+      "Visual: Family cluster adjacency. Frekuensi kunjungan berasal dari jadwal operator, bukan angka asumsi umum."
+    ],
+    "raw": "ACTIVITIES THAT FAMILIES CAN BUILD INTO THEIR ROUTINE\n\nPotential operator profiles:\n\n   ●   Indoor discovery/play.\n   ●   Creative learning studio.\n   ●   Scheduled academy or classes.\n   ●   Family activity operator.\n\nExperience relationship\nChild activity connects with nearby cafés, retail and family dining.\n\nOperating requirements\nSupervision, age groups, drop-off rules, toilets, stroller access and safe circulation.\n\nVisual: Family cluster adjacency. Frekuensi kunjungan berasal dari jadwal operator, bukan\nangka asumsi umum.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Potential operator profiles:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Indoor discovery/play.",
+          "Creative learning studio.",
+          "Scheduled academy or classes.",
+          "Family activity operator."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Experience relationship",
+        "text": "Child activity connects with nearby cafés, retail and family dining."
+      },
+      {
+        "type": "paragraph",
+        "label": "Operating requirements",
+        "text": "Supervision, age groups, drop-off rules, toilets, stroller access and safe circulation."
+      }
+    ],
+    "notes": [
+      "Visual: Family cluster adjacency. Frekuensi kunjungan berasal dari jadwal operator, bukan angka asumsi umum."
+    ],
+    "image": "../presentation/assets/slide-14-kids.jpg",
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "image",
+    "dark": false
+  },
+  {
+    "number": 18,
+    "label": "SPORT, WELLNESS & RECOVERY",
+    "title": "RECURRING PARTICIPATION WITH COMPLEMENTARY SERVICES",
+    "blocks": [
+      "Category                 Role to test                       Key requirement",
+      "Fitness club             Membership                Catchment, equipment and operating frequency                 hours",
+      "Boutique studio          Scheduled classes         Appropriate room sizes and customer pricing",
+      "Racket/activity          Group participation       Clear height, structure, noise and operator                                           access",
+      "Recovery/physiothera     Repeat service visits     Operator capability and customer py                                                 demand",
+      "Spa/wellness             Local and hotel           Privacy, acoustics and service spending                  economics",
+      "Visual: Activity-to-café relationship, dengan quiet buffer menuju hotel/wellness."
+    ],
+    "raw": "RECURRING PARTICIPATION WITH COMPLEMENTARY SERVICES\n\n       Category                 Role to test                       Key requirement\n\n Fitness club             Membership                Catchment, equipment and operating\n                          frequency                 hours\n\n Boutique studio          Scheduled classes         Appropriate room sizes and customer\n                                                    pricing\n\n Racket/activity          Group participation       Clear height, structure, noise and\n operator                                           access\n\n Recovery/physiothera     Repeat service visits     Operator capability and customer\n py                                                 demand\n\n Spa/wellness             Local and hotel           Privacy, acoustics and service\n                          spending                  economics\n\nVisual: Activity-to-café relationship, dengan quiet buffer menuju hotel/wellness.",
+    "elements": [
+      {
+        "type": "table",
+        "headers": [
+          "Category",
+          "Role to test",
+          "Key requirement"
+        ],
+        "rows": [
+          [
+            "Fitness club",
+            "Membership frequency",
+            "Catchment, equipment and operating hours"
+          ],
+          [
+            "Boutique studio",
+            "Scheduled classes",
+            "Appropriate room sizes and customer pricing"
+          ],
+          [
+            "Racket/activity operator",
+            "Group participation",
+            "Clear height, structure, noise and access"
+          ],
+          [
+            "Recovery/physiotherapy",
+            "Repeat service visits",
+            "Operator capability and customer demand"
+          ],
+          [
+            "Spa/wellness",
+            "Local and hotel spending",
+            "Privacy, acoustics and service economics"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Visual: Activity-to-café relationship, dengan quiet buffer menuju hotel/wellness."
+    ],
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 19,
+    "label": "EVERYDAY & SOCIAL ANCHORS",
+    "title": "REASONS TO RETURN, AND REASONS TO CONTINUE THE EVENING",
+    "blocks": [
+      "Everyday candidates Specialty grocery, personal services and selected useful retail.",
+      "Social candidates Participatory games, hobby concepts, social dining and managed performance formats.",
+      "Selection principle Each concept must fit the customer, available space and surrounding uses.",
+      "Visual: Grocery morning dan social evening.",
+      "Catatan: Cinema tetap dapat diuji bila ada operator demand. Keberadaan cinema di kompetitor tidak otomatis membuatnya tidak layak."
+    ],
+    "raw": "REASONS TO RETURN, AND REASONS TO CONTINUE THE EVENING\n\nEveryday candidates\nSpecialty grocery, personal services and selected useful retail.\n\nSocial candidates\nParticipatory games, hobby concepts, social dining and managed performance formats.\n\nSelection principle\nEach concept must fit the customer, available space and surrounding uses.\n\nVisual: Grocery morning dan social evening.\n\nCatatan: Cinema tetap dapat diuji bila ada operator demand. Keberadaan cinema di\nkompetitor tidak otomatis membuatnya tidak layak.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Everyday candidates",
+        "text": "Specialty grocery, personal services and selected useful retail."
+      },
+      {
+        "type": "paragraph",
+        "label": "Social candidates",
+        "text": "Participatory games, hobby concepts, social dining and managed performance formats."
+      },
+      {
+        "type": "paragraph",
+        "label": "Selection principle",
+        "text": "Each concept must fit the customer, available space and surrounding uses."
+      }
+    ],
+    "notes": [
+      "Visual: Grocery morning dan social evening.",
+      "Catatan: Cinema tetap dapat diuji bila ada operator demand. Keberadaan cinema di kompetitor tidak otomatis membuatnya tidak layak."
+    ],
+    "image": "../presentation/assets/slide-15-vranda.jpg",
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "image",
+    "dark": false
+  },
+  {
+    "number": 20,
+    "label": "TENANT ADJACENCY",
+    "title": "THE MIX WORKS THROUGH ITS CONNECTIONS",
+    "blocks": [
+      "Relationship                Intended outcome                    Design implication",
+      "Family activity +            Parents spend time nearby          Safe, convenient access café/dining",
+      "Sport + café/recovery        Additional visits after activity   Compatible hours and frontage",
+      "Grocery + useful services Several needs within one trip         Easy access and visible connections",
+      "Hotel + culinary             Guest spending across the          Clear public/private transition district",
+      "The Veranda + dining         Event activity supports            Frontage, seating and access tenants",
+      "Wellness + hotel             Convenient quieter                 Acoustic and privacy buffers experiences",
+      "Visual: Annotated zoning map."
+    ],
+    "raw": "THE MIX WORKS THROUGH ITS CONNECTIONS\n\n       Relationship                Intended outcome                    Design implication\n\n Family activity +            Parents spend time nearby          Safe, convenient access\n café/dining\n\n Sport + café/recovery        Additional visits after activity   Compatible hours and frontage\n\n Grocery + useful services Several needs within one trip         Easy access and visible\n                                                                 connections\n\n Hotel + culinary             Guest spending across the          Clear public/private transition\n                              district\n\n The Veranda + dining         Event activity supports            Frontage, seating and access\n                              tenants\n\n Wellness + hotel             Convenient quieter                 Acoustic and privacy buffers\n                              experiences\n\nVisual: Annotated zoning map.",
+    "elements": [
+      {
+        "type": "table",
+        "headers": [
+          "Relationship",
+          "Intended outcome",
+          "Design implication"
+        ],
+        "rows": [
+          [
+            "Family activity + café/dining",
+            "Parents spend time nearby",
+            "Safe, convenient access"
+          ],
+          [
+            "Sport + café/recovery",
+            "Additional visits after activity",
+            "Compatible hours and frontage"
+          ],
+          [
+            "Grocery + useful services",
+            "Several needs within one trip",
+            "Easy access and visible connections"
+          ],
+          [
+            "Hotel + culinary",
+            "Guest spending across the district",
+            "Clear public/private transition"
+          ],
+          [
+            "The Veranda + dining",
+            "Event activity supports tenants",
+            "Frontage, seating and access"
+          ],
+          [
+            "Wellness + hotel",
+            "Convenient quieter experiences",
+            "Acoustic and privacy buffers"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Visual: Annotated zoning map."
+    ],
+    "section": "POSITIONING & TENANT STRATEGY",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 21,
+    "label": "ANCHOR AREA CHECK",
+    "title": "SPACE ALLOCATION FOLLOWS OPERATOR REQUIREMENTS",
+    "blocks": [
+      "Current working figures from the feedback document.",
+      "Item                Alternative 1     Alternative 2",
+      "Anchor area at ground level     1,880 m²         2,185 m²",
+      "Anchor area at P1               1,880 m²         2,185 m²",
+      "Combined anchor allocation 3,760 m²              4,370 m²",
+      "The commercial team must test whether operators require one large unit, several subdivisions or a connected multi-level format.",
+      "Validation points Independent access, loading, visibility, vertical connection and technical fit.",
+      "Visual: Kedua opsi dengan anchor allocation ditandai. Jangan menganggap dua lantai otomatis cocok untuk satu operator."
+    ],
+    "raw": "SPACE ALLOCATION FOLLOWS OPERATOR REQUIREMENTS\n\nCurrent working figures from the feedback document.\n\n             Item                Alternative 1     Alternative 2\n\n Anchor area at ground level     1,880 m²         2,185 m²\n\n Anchor area at P1               1,880 m²         2,185 m²\n\n Combined anchor allocation 3,760 m²              4,370 m²\n\nThe commercial team must test whether operators require one large unit, several\nsubdivisions or a connected multi-level format.\n\nValidation points\nIndependent access, loading, visibility, vertical connection and technical fit.\n\nVisual: Kedua opsi dengan anchor allocation ditandai. Jangan menganggap dua lantai\notomatis cocok untuk satu operator.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Current working figures from the feedback document."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Item",
+          "Alternative 1",
+          "Alternative 2"
+        ],
+        "rows": [
+          [
+            "Anchor area at ground level",
+            "1,880 m²",
+            "2,185 m²"
+          ],
+          [
+            "Anchor area at P1",
+            "1,880 m²",
+            "2,185 m²"
+          ],
+          [
+            "Combined anchor allocation",
+            "3,760 m²",
+            "4,370 m²"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "The commercial team must test whether operators require one large unit, several subdivisions or a connected multi-level format."
+      },
+      {
+        "type": "paragraph",
+        "label": "Validation points",
+        "text": "Independent access, loading, visibility, vertical connection and technical fit."
+      }
+    ],
+    "notes": [
+      "Visual: Kedua opsi dengan anchor allocation ditandai. Jangan menganggap dua lantai otomatis cocok untuk satu operator."
+    ],
+    "section": "COMMERCIAL VALIDATION",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 22,
+    "label": "INITIAL SOUNDING PLAN",
+    "title": "TWENTY FOCUSED OPERATOR CONVERSATIONS",
+    "blocks": [
+      "Proposed outreach allocation.",
+      "Category            Conversation s",
+      "Culinary                    5",
+      "Family and learning         3",
+      "Sport and fitness           4",
+      "Wellness and                3 recovery",
+      "Grocery                     2",
+      "Social entertainment        3",
+      "Total                       20",
+      "The first round tests interest and requirements before formal leasing proposals.",
+      "Visual: Priority pipeline.",
+      "Catatan: Ini target conversations, bukan jumlah tenant final atau bukti minat."
+    ],
+    "raw": "TWENTY FOCUSED OPERATOR CONVERSATIONS\n\nProposed outreach allocation.\n\n         Category            Conversation\n                                  s\n\n Culinary                    5\n\n Family and learning         3\n\n Sport and fitness           4\n\n Wellness and                3\n recovery\n\n Grocery                     2\n\n Social entertainment        3\n\n Total                       20\n\nThe first round tests interest and requirements before formal leasing proposals.\n\nVisual: Priority pipeline.\n\nCatatan: Ini target conversations, bukan jumlah tenant final atau bukti minat.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Proposed outreach allocation."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Category",
+          "Conversations"
+        ],
+        "rows": [
+          [
+            "Culinary",
+            "5"
+          ],
+          [
+            "Family and learning",
+            "3"
+          ],
+          [
+            "Sport and fitness",
+            "4"
+          ],
+          [
+            "Wellness and recovery",
+            "3"
+          ],
+          [
+            "Grocery",
+            "2"
+          ],
+          [
+            "Social entertainment",
+            "3"
+          ],
+          [
+            "Total",
+            "20"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "The first round tests interest and requirements before formal leasing proposals."
+      }
+    ],
+    "notes": [
+      "Visual: Priority pipeline.",
+      "Catatan: Ini target conversations, bukan jumlah tenant final atau bukti minat."
+    ],
+    "section": "COMMERCIAL VALIDATION",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 23,
+    "label": "SOUNDING MATRIX",
+    "title": "INTEREST BECOMES A COMMERCIAL REQUIREMENT",
+    "blocks": [
+      "Capture for each operator:",
+      "●    Interest level and target customer. ●    Preferred area and location. ●    Indicative rent and total occupancy cost. ●    Lease structure and duration. ●    Technical and opening requirements. ●    Fit-out responsibilities. ●    Main concerns and decision timeline.",
+      "Required output A traceable operator matrix with dates, contact details and supporting records.",
+      "Visual: Contoh satu baris matrix. Hindari label “Done” tanpa hasil yang dapat ditinjau."
+    ],
+    "raw": "INTEREST BECOMES A COMMERCIAL REQUIREMENT\n\nCapture for each operator:\n\n   ●    Interest level and target customer.\n   ●    Preferred area and location.\n   ●    Indicative rent and total occupancy cost.\n   ●    Lease structure and duration.\n   ●    Technical and opening requirements.\n   ●    Fit-out responsibilities.\n   ●    Main concerns and decision timeline.\n\nRequired output\nA traceable operator matrix with dates, contact details and supporting records.\n\nVisual: Contoh satu baris matrix. Hindari label “Done” tanpa hasil yang dapat ditinjau.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Capture for each operator:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Interest level and target customer.",
+          "Preferred area and location.",
+          "Indicative rent and total occupancy cost.",
+          "Lease structure and duration.",
+          "Technical and opening requirements.",
+          "Fit-out responsibilities.",
+          "Main concerns and decision timeline."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Required output",
+        "text": "A traceable operator matrix with dates, contact details and supporting records."
+      }
+    ],
+    "notes": [
+      "Visual: Contoh satu baris matrix. Hindari label “Done” tanpa hasil yang dapat ditinjau."
+    ],
+    "section": "COMMERCIAL VALIDATION",
+    "style": "editorial",
+    "dark": true
+  },
+  {
+    "number": 24,
+    "label": "LEASE STRUCTURE",
+    "title": "COMMERCIAL TERMS REFLECT THE OPERATOR MODEL",
+    "blocks": [
+      "Model                  Potential application                  Validation",
+      "Fixed rent                   Established retail and          Affordability and comparable service operators               terms",
+      "Minimum guarantee +          Selected F&B and                Sales reporting and agreed turnover rent                experience concepts             calculation",
+      "Revenue share                Selected operating              Risk allocation, costs and audit partnerships                    rights",
+      "Short-term licence           Pop-ups and activation          Inventory, booked days and operating rules",
+      "Strategic partnership        Tourism and distribution        Acquisition cost and contribution",
+      "Visual: Commercial model table.",
+      "Catatan: Anchor lease duration harus dibahas bersama investasi fit-out, break clauses, opening obligations dan operator capability."
+    ],
+    "raw": "COMMERCIAL TERMS REFLECT THE OPERATOR MODEL\n\n           Model                  Potential application                  Validation\n\n Fixed rent                   Established retail and          Affordability and comparable\n                              service operators               terms\n\n Minimum guarantee +          Selected F&B and                Sales reporting and agreed\n turnover rent                experience concepts             calculation\n\n Revenue share                Selected operating              Risk allocation, costs and audit\n                              partnerships                    rights\n\n Short-term licence           Pop-ups and activation          Inventory, booked days and\n                                                              operating rules\n\n Strategic partnership        Tourism and distribution        Acquisition cost and\n                                                              contribution\n\nVisual: Commercial model table.\n\nCatatan: Anchor lease duration harus dibahas bersama investasi fit-out, break clauses,\nopening obligations dan operator capability.",
+    "elements": [
+      {
+        "type": "table",
+        "headers": [
+          "Model",
+          "Potential application",
+          "Validation"
+        ],
+        "rows": [
+          [
+            "Fixed rent",
+            "Established retail and service operators",
+            "Affordability and comparable terms"
+          ],
+          [
+            "Minimum guarantee + turnover rent",
+            "Selected F&B and experience concepts",
+            "Sales reporting and agreed calculation"
+          ],
+          [
+            "Revenue share",
+            "Selected operating partnerships",
+            "Risk allocation, costs and audit rights"
+          ],
+          [
+            "Short-term licence",
+            "Pop-ups and activation",
+            "Inventory, booked days and operating rules"
+          ],
+          [
+            "Strategic partnership",
+            "Tourism and distribution",
+            "Acquisition cost and contribution"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Visual: Commercial model table.",
+      "Catatan: Anchor lease duration harus dibahas bersama investasi fit-out, break clauses, opening obligations dan operator capability."
+    ],
+    "section": "COMMERCIAL VALIDATION",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 25,
+    "label": "TENANT SELECTION & PHASING",
+    "title": "AN OPENING MIX THAT CAN OPERATE AS A DESTINATION",
+    "blocks": [
+      "Selection criteria Customer relevance, operator capability, commercial contribution, technical fit and willingness to participate.",
+      "Phase-one priorities A complete everyday visit, a credible culinary offer, family activity and a functioning The Veranda.",
+      "Later additions Categories that need stronger demand evidence or specialist infrastructure.",
+      "Visual: Phase-one experience map.",
+      "Catatan: Jadwal final mengikuti controlled masterplan, QS dan tenant readiness."
+    ],
+    "raw": "AN OPENING MIX THAT CAN OPERATE AS A DESTINATION\n\nSelection criteria\nCustomer relevance, operator capability, commercial contribution, technical fit and\nwillingness to participate.\n\nPhase-one priorities\nA complete everyday visit, a credible culinary offer, family activity and a functioning The\nVeranda.\n\nLater additions\nCategories that need stronger demand evidence or specialist infrastructure.\n\nVisual: Phase-one experience map.\n\nCatatan: Jadwal final mengikuti controlled masterplan, QS dan tenant readiness.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "label": "Selection criteria",
+        "text": "Customer relevance, operator capability, commercial contribution, technical fit and willingness to participate."
+      },
+      {
+        "type": "paragraph",
+        "label": "Phase-one priorities",
+        "text": "A complete everyday visit, a credible culinary offer, family activity and a functioning The Veranda."
+      },
+      {
+        "type": "paragraph",
+        "label": "Later additions",
+        "text": "Categories that need stronger demand evidence or specialist infrastructure."
+      }
+    ],
+    "notes": [
+      "Visual: Phase-one experience map.",
+      "Catatan: Jadwal final mengikuti controlled masterplan, QS dan tenant readiness."
+    ],
+    "image": "../presentation/assets/slide-10-the-veranda.jpg",
+    "section": "COMMERCIAL VALIDATION",
+    "style": "image",
+    "dark": false
+  },
+  {
+    "number": 26,
+    "label": "REVENUE SCENARIOS",
+    "title": "THREE SCENARIOS, BUILT FROM THE SAME INVENTORY",
+    "blocks": [
+      "Scenario                                    Working basis",
+      "Conservativ     Slower occupancy, lower achieved rents and lower activation utilisation e",
+      "Base            Current assumptions, adjusted as evidence becomes available",
+      "Upside          Supported improvements in occupancy, rent and commercial utilisation",
+      "Bottom-up additional revenue",
+      "●   Events: available booking slots × booked share × fee. ●   Media: assets × rate × sell-through. ●   Activations: locations × booked days × rate. ●   Sponsorship: contracted packages and recognised period. ●   Tourism: fulfilled bookings × net fee or commission.",
+      "Catatan: Pendapatan event, sponsorship dan activation harus dicek agar tidak menghitung paket yang sama dua kali. Inventory amphitheatre pada feedback perlu diselaraskan dengan The Veranda dan layout terbaru."
+    ],
+    "raw": "THREE SCENARIOS, BUILT FROM THE SAME INVENTORY\n\n  Scenario                                    Working basis\n\n Conservativ     Slower occupancy, lower achieved rents and lower activation utilisation\n e\n\n Base            Current assumptions, adjusted as evidence becomes available\n\n Upside          Supported improvements in occupancy, rent and commercial utilisation\n\nBottom-up additional revenue\n\n   ●   Events: available booking slots × booked share × fee.\n   ●   Media: assets × rate × sell-through.\n   ●   Activations: locations × booked days × rate.\n   ●   Sponsorship: contracted packages and recognised period.\n   ●   Tourism: fulfilled bookings × net fee or commission.\n\nCatatan: Pendapatan event, sponsorship dan activation harus dicek agar tidak menghitung\npaket yang sama dua kali. Inventory amphitheatre pada feedback perlu diselaraskan dengan\nThe Veranda dan layout terbaru.",
+    "elements": [
+      {
+        "type": "table",
+        "headers": [
+          "Scenario",
+          "Working basis"
+        ],
+        "rows": [
+          [
+            "Conservative",
+            "Slower occupancy, lower achieved rents and lower activation utilisation"
+          ],
+          [
+            "Base",
+            "Current assumptions, adjusted as evidence becomes available"
+          ],
+          [
+            "Upside",
+            "Supported improvements in occupancy, rent and commercial utilisation"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "label": "Bottom-up additional revenue",
+        "text": ""
+      },
+      {
+        "type": "list",
+        "items": [
+          "Events: available booking slots × booked share × fee.",
+          "Media: assets × rate × sell-through.",
+          "Activations: locations × booked days × rate.",
+          "Sponsorship: contracted packages and recognised period.",
+          "Tourism: fulfilled bookings × net fee or commission."
+        ]
+      }
+    ],
+    "notes": [
+      "Catatan: Pendapatan event, sponsorship dan activation harus dicek agar tidak menghitung paket yang sama dua kali. Inventory amphitheatre pada feedback perlu diselaraskan dengan The Veranda dan layout terbaru."
+    ],
+    "section": "COMMERCIAL VALIDATION",
+    "style": "table",
+    "dark": true
+  },
+  {
+    "number": 27,
+    "label": "THE VERANDA ECONOMICS",
+    "title": "PROGRAMMING NEEDS A NET CONTRIBUTION",
+    "blocks": [
+      "Evaluate each programme through:",
+      "Item                               Measure",
+      "Direct income         Tickets, rental, sponsorship or participation fees",
+      "Direct cost           Production, staffing, security, cleaning and utilities",
+      "Tenant contribution   Participation and measurable commercial uplift",
+      "Destination benefit   Repeat participation and new visitor acquisition",
+      "Space impact          Access, disruption and displaced activity",
+      "Free community programmes require a defined budget and purpose.",
+      "Visual: Event contribution worksheet, tanpa revenue target yang belum tervalidasi."
+    ],
+    "raw": "PROGRAMMING NEEDS A NET CONTRIBUTION\n\nEvaluate each programme through:\n\n          Item                               Measure\n\n Direct income         Tickets, rental, sponsorship or participation fees\n\n Direct cost           Production, staffing, security, cleaning and utilities\n\n Tenant contribution   Participation and measurable commercial uplift\n\n Destination benefit   Repeat participation and new visitor acquisition\n\n Space impact          Access, disruption and displaced activity\n\nFree community programmes require a defined budget and purpose.\n\nVisual: Event contribution worksheet, tanpa revenue target yang belum tervalidasi.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Evaluate each programme through:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Item",
+          "Measure"
+        ],
+        "rows": [
+          [
+            "Direct income",
+            "Tickets, rental, sponsorship or participation fees"
+          ],
+          [
+            "Direct cost",
+            "Production, staffing, security, cleaning and utilities"
+          ],
+          [
+            "Tenant contribution",
+            "Participation and measurable commercial uplift"
+          ],
+          [
+            "Destination benefit",
+            "Repeat participation and new visitor acquisition"
+          ],
+          [
+            "Space impact",
+            "Access, disruption and displaced activity"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Free community programmes require a defined budget and purpose."
+      }
+    ],
+    "notes": [
+      "Visual: Event contribution worksheet, tanpa revenue target yang belum tervalidasi."
+    ],
+    "section": "COMMERCIAL VALIDATION",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 28,
+    "label": "OPEX & RETURN VALIDATION",
+    "title": "THE INVESTMENT CASE FOLLOWS VERIFIED OPERATING ASSUMPTIONS",
+    "blocks": [
+      "OPEX should reflect manpower, shifts, technical loads, service standards, contracts and the programming calendar.",
+      "The feedback’s working NOI and construction investment imply approximately:",
+      "Metric             Alternative 1   Alternative 2",
+      "Annual NOI                      Rp22.835bn      Rp20.929bn",
+      "Construction investment         Rp278.947bn     Rp259.378bn",
+      "NOI ÷ construction investment   8.19%           8.07%",
+      "Catatan: Rasio ini merupakan perhitungan sederhana dari angka feedback, bukan IRR atau return atas total project cost. Angka “10–11% return” perlu dijelaskan metrik dan basisnya sebelum dibandingkan."
+    ],
+    "raw": "THE INVESTMENT CASE FOLLOWS VERIFIED OPERATING ASSUMPTIONS\n\nOPEX should reflect manpower, shifts, technical loads, service standards, contracts and the\nprogramming calendar.\n\nThe feedback’s working NOI and construction investment imply approximately:\n\n              Metric             Alternative 1   Alternative 2\n\n Annual NOI                      Rp22.835bn      Rp20.929bn\n\n Construction investment         Rp278.947bn     Rp259.378bn\n\n NOI ÷ construction investment   8.19%           8.07%\n\nCatatan: Rasio ini merupakan perhitungan sederhana dari angka feedback, bukan IRR atau\nreturn atas total project cost. Angka “10–11% return” perlu dijelaskan metrik dan basisnya\nsebelum dibandingkan.",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "OPEX should reflect manpower, shifts, technical loads, service standards, contracts and the programming calendar."
+      },
+      {
+        "type": "paragraph",
+        "text": "The feedback’s working NOI and construction investment imply approximately:"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Metric",
+          "Alternative 1",
+          "Alternative 2"
+        ],
+        "rows": [
+          [
+            "Annual NOI",
+            "Rp22.835bn",
+            "Rp20.929bn"
+          ],
+          [
+            "Construction investment",
+            "Rp278.947bn",
+            "Rp259.378bn"
+          ],
+          [
+            "NOI ÷ construction investment",
+            "8.19%",
+            "8.07%"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Catatan: Rasio ini merupakan perhitungan sederhana dari angka feedback, bukan IRR atau return atas total project cost. Angka “10–11% return” perlu dijelaskan metrik dan basisnya sebelum dibandingkan."
+    ],
+    "section": "COMMERCIAL VALIDATION",
+    "style": "table",
+    "dark": false
+  },
+  {
+    "number": 29,
+    "label": "Closing copy",
+    "title": "LIFE COMES TOGETHER. THE VERANDA BRINGS IT INTO VIEW.",
+    "blocks": [],
+    "raw": "LIFE COMES TOGETHER.\nTHE VERANDA BRINGS IT INTO VIEW.",
+    "elements": [],
+    "notes": [],
+    "image": "../presentation/assets/slide-10-night.jpg",
+    "section": "CLOSING",
+    "style": "closing",
+    "dark": true
+  }
+]

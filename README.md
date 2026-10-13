@@ -1,5 +1,15 @@
 # KALINDO — Destination concept & identity
 
+**Latest edition: the complete 29-slide brief.**
+
+- [Editable 29-slide PowerPoint](KALINDO-Complete-Brief-29-Slides-EDITABLE.pptx)
+- [29-slide PDF](KALINDO-Complete-Brief-29-Slides.pdf)
+- [29-slide source package](KALINDO-Complete-Brief-29-Slides-Source.zip)
+- [Edition details and source-fidelity notes](presentation29/README.md)
+
+Run `npm start`, then open `/presentation29/index.html` for the new deck. The full wording, tables, numbers, URLs, visual directions and notes from **KALINDO PROJECT (1).pdf** are preserved. The files below describe the earlier 24-slide edition.
+
+
 A 24-slide, 16:9 editorial presentation based on **KALINDO PROJECT.pdf**. The Rapha document informs presentation hierarchy only. All photography comes from the supplied repository; no external photography or remote fonts are loaded.
 
 ## Run
