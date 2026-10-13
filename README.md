@@ -44,3 +44,7 @@ node scripts/export.mjs
 Forest green `#183D32`, garden green `#6D8767`, sage `#DCE4D5`, warm ivory `#F4F1E8`, stone `#D8D1C4` and charcoal `#292D29`. Dark green is reserved for the cover, platform, tenant strategy and naming spreads; ivory editorial pages and large architectural/lifestyle images provide rhythm. Latin Modern Roman and Nimbus Sans are bundled with their licences. A fine-rule grid, restrained line icons, generous spacing and numbered section markers unify the deck.
 
 Original images remain unchanged. JPEG derivatives preserve original dimensions and aspect ratios; CSS uses intentional cover crops. Supplied concept imagery is labelled as unverified as built. No tenant, partner, name or architectural performance is presented as formally approved.
+
+## PowerPoint
+
+`KALINDO-Destination-Identity.pptx` contains 24 full-slide visual renders, matching the reviewed deck at 16:9. Slides are flattened images, so text and layout are not directly editable in PowerPoint. Speaker notes retain the slide copy and proposal/review notes. Edit the web source and refresh the reviewed screenshots to change the visual deck. To regenerate the PowerPoint, install `python-pptx` and Pillow and run `python scripts/export-pptx.py` from the repository root.
