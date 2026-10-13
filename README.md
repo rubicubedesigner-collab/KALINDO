@@ -48,3 +48,18 @@ Original images remain unchanged. JPEG derivatives preserve original dimensions 
 ## PowerPoint
 
 `KALINDO-Destination-Identity.pptx` contains 24 full-slide visual renders, matching the reviewed deck at 16:9. Slides are flattened images, so text and layout are not directly editable in PowerPoint. Speaker notes retain the slide copy and proposal/review notes. Edit the web source and refresh the reviewed screenshots to change the visual deck. To regenerate the PowerPoint, install `python-pptx` and Pillow and run `python scripts/export-pptx.py` from the repository root.
+
+## Editable PowerPoint
+
+Use **KALINDO-Destination-Identity-EDITABLE.pptx** to edit the deck. This version has 24 slides built from native PowerPoint text boxes, embedded photos, background rectangles, rules and diagram elements. Text uses Georgia and Arial for compatibility, so typography differs slightly from the original web deck. Photos are independently replaceable and removable. No slide is a flattened full-slide image.
+
+- Click a text box and type to change copy.
+- Select a photo and use **Picture Format → Change Picture** to replace it.
+- Select any text/photo/shape and press Delete to remove it.
+- Use **Insert → Text Box / Pictures / Shapes** to add elements.
+- Use **Home → Arrange → Selection Pane** to select overlapping objects.
+- Duplicate or delete slides in the left thumbnail panel.
+
+The older `KALINDO-Destination-Identity.pptx` remains the visual-fidelity image version; open the file ending in **-EDITABLE.pptx** for editing.
+
+Regenerate with `python scripts/export-editable-pptx.py` (requires python-pptx). The captured geometry is in `presentation/editable-layout.json`. To refresh geometry after changing the web deck, run the local server, install optional Playwright, and run `node scripts/capture-editable-layout.cjs` from the repository root with system Chromium available. The generator retains separate objects and speaker notes.
